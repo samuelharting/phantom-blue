@@ -2,7 +2,7 @@
 
 Phantom Blue is an offline Python detection-analysis CLI that normalizes exported SIEM/EDR events, maps conservative MITRE ATT&CK candidates, and produces reviewable Sigma-style draft YAML and HTML reports.
 
-[Watch the recruiter walkthrough](https://samuel-harting-projects.samharting.chatgpt.site/#phantom)
+[Watch the recruiter walkthrough](https://sam-cyber-portfolio.vercel.app/#phantom)
 
 ![Phantom Blue normalization workflow](docs/phantom-blue-overview.jpg)
 
